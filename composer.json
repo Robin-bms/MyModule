@@ -1,0 +1,11 @@
+{
+    "name": "bms/module-sample",
+    "description": "a module sample",
+    "authors": [
+        {
+            "name": "Boost My Shop",
+            "email": "dev@boostmyshop.com"
+        }
+    ],
+    "require": {}
+}
